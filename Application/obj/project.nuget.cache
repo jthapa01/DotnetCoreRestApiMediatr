@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "zo3mW3UZayTBUFdmZLSJg5aIBrLoaqPoOZdQPqJZalXr1zyfiFSognfg1w1LrDIslC2AGVp/W0vmm4xld/g5bA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jeevanthapa\\Desktop\\DotNetCourses\\UltimateAspNetCoreWebApi\\Practice\\33-Bonus 2 CQRS and MediatR\\start\\CompanyEmployees\\Application\\Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jeevanthapa\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",
+    "C:\\Users\\jeevanthapa\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

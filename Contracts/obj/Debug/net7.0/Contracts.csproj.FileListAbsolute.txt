@@ -1,0 +1,15 @@
+C:\Users\jeevanthapa\Desktop\DotNetCourses\UltimateAspNetCoreWebApi\Practice\33-Bonus 2 CQRS and MediatR\start\CompanyEmployees\Contracts\bin\Debug\net7.0\Contracts.deps.json
+C:\Users\jeevanthapa\Desktop\DotNetCourses\UltimateAspNetCoreWebApi\Practice\33-Bonus 2 CQRS and MediatR\start\CompanyEmployees\Contracts\bin\Debug\net7.0\Contracts.dll
+C:\Users\jeevanthapa\Desktop\DotNetCourses\UltimateAspNetCoreWebApi\Practice\33-Bonus 2 CQRS and MediatR\start\CompanyEmployees\Contracts\bin\Debug\net7.0\Contracts.pdb
+C:\Users\jeevanthapa\Desktop\DotNetCourses\UltimateAspNetCoreWebApi\Practice\33-Bonus 2 CQRS and MediatR\start\CompanyEmployees\Contracts\bin\Debug\net7.0\Entities.dll
+C:\Users\jeevanthapa\Desktop\DotNetCourses\UltimateAspNetCoreWebApi\Practice\33-Bonus 2 CQRS and MediatR\start\CompanyEmployees\Contracts\bin\Debug\net7.0\Entities.pdb
+C:\Users\jeevanthapa\Desktop\DotNetCourses\UltimateAspNetCoreWebApi\Practice\33-Bonus 2 CQRS and MediatR\start\CompanyEmployees\Contracts\obj\Debug\net7.0\Contracts.csproj.AssemblyReference.cache
+C:\Users\jeevanthapa\Desktop\DotNetCourses\UltimateAspNetCoreWebApi\Practice\33-Bonus 2 CQRS and MediatR\start\CompanyEmployees\Contracts\obj\Debug\net7.0\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeevanthapa\Desktop\DotNetCourses\UltimateAspNetCoreWebApi\Practice\33-Bonus 2 CQRS and MediatR\start\CompanyEmployees\Contracts\obj\Debug\net7.0\Contracts.AssemblyInfoInputs.cache
+C:\Users\jeevanthapa\Desktop\DotNetCourses\UltimateAspNetCoreWebApi\Practice\33-Bonus 2 CQRS and MediatR\start\CompanyEmployees\Contracts\obj\Debug\net7.0\Contracts.AssemblyInfo.cs
+C:\Users\jeevanthapa\Desktop\DotNetCourses\UltimateAspNetCoreWebApi\Practice\33-Bonus 2 CQRS and MediatR\start\CompanyEmployees\Contracts\obj\Debug\net7.0\Contracts.csproj.CoreCompileInputs.cache
+C:\Users\jeevanthapa\Desktop\DotNetCourses\UltimateAspNetCoreWebApi\Practice\33-Bonus 2 CQRS and MediatR\start\CompanyEmployees\Contracts\obj\Debug\net7.0\Contracts.csproj.CopyComplete
+C:\Users\jeevanthapa\Desktop\DotNetCourses\UltimateAspNetCoreWebApi\Practice\33-Bonus 2 CQRS and MediatR\start\CompanyEmployees\Contracts\obj\Debug\net7.0\Contracts.dll
+C:\Users\jeevanthapa\Desktop\DotNetCourses\UltimateAspNetCoreWebApi\Practice\33-Bonus 2 CQRS and MediatR\start\CompanyEmployees\Contracts\obj\Debug\net7.0\refint\Contracts.dll
+C:\Users\jeevanthapa\Desktop\DotNetCourses\UltimateAspNetCoreWebApi\Practice\33-Bonus 2 CQRS and MediatR\start\CompanyEmployees\Contracts\obj\Debug\net7.0\Contracts.pdb
+C:\Users\jeevanthapa\Desktop\DotNetCourses\UltimateAspNetCoreWebApi\Practice\33-Bonus 2 CQRS and MediatR\start\CompanyEmployees\Contracts\obj\Debug\net7.0\ref\Contracts.dll
